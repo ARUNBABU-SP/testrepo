@@ -5,4 +5,7 @@ Blue
 Green
 yellow
 Red
-END
+adding some more colors
+white
+Pink
+magenta
