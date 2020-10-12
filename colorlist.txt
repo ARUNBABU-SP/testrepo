@@ -1,0 +1,6 @@
+This is rainbow colors
+Violet
+Indigo 
+Blue
+Green
+END
