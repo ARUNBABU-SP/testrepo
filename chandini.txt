@@ -1,2 +1,6 @@
 mens wear
 kids wear
+ladies wear 
+inner garments
+toys
+................
