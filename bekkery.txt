@@ -3,3 +3,7 @@ peda
 jilebi
 laddu
 ...........
+
+samoosa
+puffs
+cocolates
